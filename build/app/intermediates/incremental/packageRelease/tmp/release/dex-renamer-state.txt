@@ -1,0 +1,4 @@
+#Thu Dec 28 13:17:49 IST 2023
+base.0=/Users/mayuri/projects/demo_project/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
